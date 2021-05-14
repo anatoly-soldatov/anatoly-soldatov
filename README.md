@@ -4,7 +4,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&link=http://telegram.me/MrAnatoly/)](http://telegram.me/MrAnatoly/)[![Slack Badge](https://img.shields.io/badge/-Slack-green?style=flat-square&logo=Slack&link=https://unity.slack.com/team/U01J2PEDK6J)](https://unity.slack.com/team/U01J2PEDK6J)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anatoly-soldatov&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats-anatoly-soldatov.vercel.app/api?username=anatoly-soldatov&count_private=true)
 
 
 <!--
